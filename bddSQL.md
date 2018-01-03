@@ -94,11 +94,11 @@ attribut d'une entité : caractéristique de l'entité
 ## identifiants (clé) d'une entité :
 emsemble minimal d'attribut déterminant de manière unique une occurence dans l'entité.  
 
-| produits(entité)       |         | Factures(entité)       |
-|:---------------------: |         |:----------------------:|
-| refProd (identifiants) |         | NomFact (identifiants) |
-| Design (attribut)      |         | DatFact (attribut)     |
-| Prix HT (attribut)     |
+| produits(entité)       | Factures(entité)       |
+|:---------------------: |:----------------------:|
+| refProd (identifiants) | NomFact (identifiants) |
+| Design (attribut)      | DatFact (attribut)     |
+| Prix HT (attribut)     
 
 ## Association : relie plusieur entités (deux ou plus)
 - Porte un nom
