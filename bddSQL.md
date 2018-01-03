@@ -59,9 +59,9 @@ transforme en la demande en commande pour le moteur SQL.
     - modele conceptuel de données (MCD) c'est a dire une représentation abstraite des données
     - utilise une representation graphique des données
 
-##principe :
+## principe :
 - données regroupées en entités et lié par des associations.
-#repose sur 3 concept de bases:
+### repose sur 3 concept de bases:
 - l'entité
 - l'attribut
 - l'associations
@@ -69,7 +69,7 @@ transforme en la demande en commande pour le moteur SQL.
 entité : emsemble d'objet similaire pouvant être regroupé
 
 Occurence d'entité: objet discernable parmis d'autre objets.
-#(voir cahier pour les exemple)
+# (voir cahier pour les exemple)
 
 | produits (entité)|  
 |:-------:|
@@ -77,7 +77,7 @@ Occurence d'entité: objet discernable parmis d'autre objets.
 | design  |
 | Prix HT |
 
-#ocurences d'entités
+# ocurences d'entités
 
 | produits      |  produits      |
 |:-------------:| :-------------:|
@@ -107,11 +107,11 @@ emsemble minimal d'attribut déterminant de manière unique une occurence dans l
 
 ## cardinalité d'une association:
 
-###cardinalité d'une association A vis à vis d'une entité E:
+### cardinalité d'une association A vis à vis d'une entité E:
 
 Nombre minimum et maximum de fois où une occurence E peut apparaitre dans l'association A.
 
-###cardinalité minimum:
+### cardinalité minimum:
 0: il peut exister des occurences de E qui n'apparaisse pas dans A
 
 1: toute occurence de E apparait au moin une fois dans A
@@ -125,4 +125,4 @@ n: il peut exister des occurences de E aparaissant plusieur fois dans A.
 
 ## Exemple de cardinalité :
 
-###Association n,n
+### Association n,n
