@@ -122,6 +122,7 @@ Nombre minimum et maximum de fois où une occurence E peut apparaitre dans l'ass
 
 n: il peut exister des occurences de E aparaissant plusieur fois dans A.
 (voir schéma).
+![text alt](https://screenshots.firefox.com/9YtnhwGe7eZHHfFr/www.youtube.com)
 
 ## Exemple de cardinalité :
 
